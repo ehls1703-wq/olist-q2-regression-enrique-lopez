@@ -1,0 +1,32 @@
+Predictor,Estimate,Std. Error,CI Lower,CI Upper
+Intercept,10.523,0.46,9.622,11.424
+"C(customer_state, Treatment(reference='SP'))[T.AC]",28.579,2.351,23.971,33.187
+"C(customer_state, Treatment(reference='SP'))[T.AL]",22.034,1.091,19.896,24.172
+"C(customer_state, Treatment(reference='SP'))[T.AM]",21.673,1.831,18.085,25.261
+"C(customer_state, Treatment(reference='SP'))[T.AP]",23.909,3.011,18.006,29.811
+"C(customer_state, Treatment(reference='SP'))[T.BA]",11.913,0.353,11.221,12.604
+"C(customer_state, Treatment(reference='SP'))[T.CE]",19.234,0.56,18.136,20.331
+"C(customer_state, Treatment(reference='SP'))[T.DF]",7.633,0.298,7.048,8.218
+"C(customer_state, Treatment(reference='SP'))[T.ES]",7.216,0.318,6.593,7.84
+"C(customer_state, Treatment(reference='SP'))[T.GO]",9.366,0.454,8.476,10.256
+"C(customer_state, Treatment(reference='SP'))[T.MA]",25.689,1.017,23.696,27.681
+"C(customer_state, Treatment(reference='SP'))[T.MG]",5.723,0.141,5.447,5.999
+"C(customer_state, Treatment(reference='SP'))[T.MS]",8.428,0.597,7.258,9.598
+"C(customer_state, Treatment(reference='SP'))[T.MT]",14.472,0.761,12.98,15.964
+"C(customer_state, Treatment(reference='SP'))[T.PA]",21.983,0.745,20.522,23.444
+"C(customer_state, Treatment(reference='SP'))[T.PB]",30.495,2.95,24.713,36.278
+"C(customer_state, Treatment(reference='SP'))[T.PE]",19.266,0.572,18.144,20.387
+"C(customer_state, Treatment(reference='SP'))[T.PI]",24.841,1.241,22.408,27.274
+"C(customer_state, Treatment(reference='SP'))[T.PR]",6.151,0.236,5.688,6.615
+"C(customer_state, Treatment(reference='SP'))[T.RJ]",5.814,0.132,5.556,6.073
+"C(customer_state, Treatment(reference='SP'))[T.RN]",22.842,0.972,20.937,24.748
+"C(customer_state, Treatment(reference='SP'))[T.RO]",27.87,1.545,24.841,30.898
+"C(customer_state, Treatment(reference='SP'))[T.RR]",32.206,4.282,23.814,40.598
+"C(customer_state, Treatment(reference='SP'))[T.RS]",7.405,0.213,6.988,7.823
+"C(customer_state, Treatment(reference='SP'))[T.SC]",7.127,0.264,6.61,7.643
+"C(customer_state, Treatment(reference='SP'))[T.SE]",22.438,1.045,20.39,24.485
+"C(customer_state, Treatment(reference='SP'))[T.TO]",22.748,1.554,19.702,25.794
+weight_kg,2.878,0.136,2.611,3.145
+product_length_cm,0.019,0.01,-0.001,0.039
+product_height_cm,0.016,0.015,-0.013,0.046
+product_width_cm,-0.03,0.014,-0.057,-0.004
